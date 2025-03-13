@@ -1,6 +1,6 @@
 - 👋 Olá sou o Nicollas
-- Estudante do 2° do Ensino Médio com técnico em Desenvolvimento de Sistemas
-- 📒 estou estudando HTML, C#, PHP, SQL, mas
+- Estudante do 3° do Ensino Médio com técnico em Desenvolvimento de Sistemas
+- 📒 estou estudando HTML, C#, PHP, SQL, React, C#, React Native mas
 sei um pouco sobre Adobe Photoshop, Word, Excel e PowerPoint.
 -😃 ele/dele 
 
